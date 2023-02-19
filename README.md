@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-I am an entry-level Java programmer, looking for my first programming job. 
+I am Junior Java Developer, taking my first steps in commercial projects.
 
 🌱 I know the basics of following technologies:
-- Java version 8 to 17
+- Java version 8+
+- Groovy
 - Spring Core, Spring Data JPA, Spring Security
-- Hibernate
-- SQL (MySQL)
+- Hibernate, 
+- SQL and databases: MySQL, H2
 - JUnit and Mockito testing
 - RESTful web services
 
-🌱 During the learnig proccess I have done:
+🌱 I am using in my work:
+- Git (GitLab)
+- Maven and Gradle
+- IntelliJ IDEA and Eclipse
+- Jira
+- Confluence
+
+🌱 During the learnig proccess I have completed:
 - [Coursera courses](https://github.com/agatarauzer/Coursera),
 - [Udemy courses](https://github.com/agatarauzer/Udemy),
 - [Kodilla bootcamp](https://github.com/agatarauzer/KodillaCourse)
